@@ -1,0 +1,12 @@
+sizeof(a) = 4 bytes
+sizeof(int) = 4 bytes
+sizeof(short) = 2 bytes
+sizeof(long) = 8 bytes
+sizeof(float) = 4 bytes
+sizeof(double) = 8 bytes
+
+sizeof(void *) = 8 bytes
+sizeof(int *) = 8 bytes
+sizeof(int **) = 8 bytes
+sizeof(int ***) = 8 bytes
+sizeof(float *) = 8 bytes
